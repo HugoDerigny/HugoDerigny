@@ -1,6 +1,6 @@
 # Product Owner & Typescript Fullstack Developper 
 
-[Portfolio](https://derigny.dev) | [Beatmaking](https://music.derigny.dev) |[LinkedIn](https://www.linkedin.com/in/hugo-derigny/)
+[Portfolio](https://derigny.dev) | [Beatmaking](https://music.derigny.dev) | [LinkedIn](https://www.linkedin.com/in/hugo-derigny/)
 
 Work for **Tabuléo** and **Tamarin Educaiton** :
 

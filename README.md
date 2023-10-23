@@ -2,7 +2,7 @@
 
 [Portfolio](https://derigny.dev) | [Beatmaking](https://music.derigny.dev) | [LinkedIn](https://www.linkedin.com/in/hugo-derigny/)
 
-Work for **Tabuléo** and **Tamarin Educaiton** :
+Work for **Tabuléo** and **Tamarin Éducation** :
 
 ➡️ Check out [Quizéo](https://app.quizeo.com)
 

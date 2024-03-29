@@ -1,12 +1,14 @@
-# Product Owner & Typescript Fullstack Developper 
+<h1 align="center">🖖 Hugo</h1>
+<p align="center">Product Owner & Typescript Fullstack Developper</p>
+<p align="center"><a href="https://derigny.dev">Portfolio</a> | <a href="https://music.derigny.dev">Beatmaking</a> | <a href="https://www.linkedin.com/in/hugo-derigny/">LinkedIn</a></p>
 
-[Portfolio](https://derigny.dev) | [Beatmaking](https://music.derigny.dev) | [LinkedIn](https://www.linkedin.com/in/hugo-derigny/)
+<br/>
 
-Work for **Tabuléo** and **Tamarin Éducation** :
+🧳 Working for **Tabuléo** and **Tamarin Éducation**
 
-➡️ Check out [Quizéo](https://app.quizeo.com)
+✨ Check out [Quizéo](https://app.quizeo.com)
 
-## Stack
+<br/>
 
 ### Specialized
 
@@ -29,5 +31,4 @@ Work for **Tabuléo** and **Tamarin Éducation** :
 ___
 
 <p align=center>
-<img src="https://media3.giphy.com/media/jwFbMfYthIM6pttfjF/giphy.gif?cid=ecf05e47uuh6ql452w7wi9gxmyzy7qdrgjnb1seco6z40qxb&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="drawing" style="width:70%"/>
-</p>
+<img src="https://media3.giphy.com/media/jwFbMfYthIM6pttfjF/giphy.gif?cid=ecf05e47uuh6ql452w7wi9gxmyzy7qdrgjnb1seco6z40qxb&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="drawing" style="width:70%"/></p>

@@ -6,11 +6,11 @@
 
 🧳 Working for **Tabuléo** and **Tamarin Éducation**
 
-✨ Main project [Quizéo](https://quizeo.com)
-📙 Tabuléo [Catalogue](https://catalogue.tabuleo.com)
-🤔 Tabuléo [Support](https://support.tabuleo.com)
-✏️ Tabuléo [Connect](https://connect.tabuleo.fr)
-👷‍♂️ [Dymerys Industrie](https://dymerys.com)
+✨ Main project [Quizéo](https://quizeo.com)<br/>
+📙 Tabuléo [Catalogue](https://catalogue.tabuleo.com)<br/>
+🤔 Tabuléo [Support](https://support.tabuleo.com)<br/>
+✏️ Tabuléo [Connect](https://connect.tabuleo.fr)<br/>
+👷‍♂️ [Dymerys Industrie](https://dymerys.com)<br/>
 
 <br/>
 
